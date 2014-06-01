@@ -1,4 +1,4 @@
-##SD Library for LaunhcPad LM4F / TM4C
+##SD Library for LaunchPad LM4F / TM4C
 
 
 * Adaptation for LaunchPad LM4F / TM4C
@@ -13,6 +13,24 @@ Rei Vilo - May 20, 2014
 
 Copyright (C) 2009 by William Greiman
 
+----
+
+### Requirements
+
+SD-card in SPI mode requires a 512 bytes buffer for read-write operations. 
+
+Energia 12 
+
+Boards
+
+* LaunchPad Stellaris LM4F120 — *tested*
+* LaunchPad Tiva C Series TM4C123 — *tested*
+* LaunchPad Connected TM4C129 — *not tested*
+
+Other candidates
+
+* LaunchPad MSP430F5529 — *not tested*
+* LaunchPad MSP430FR5969 — *not tested*
 
 ----
 
