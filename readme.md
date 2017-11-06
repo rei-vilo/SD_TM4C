@@ -1,4 +1,4 @@
-##SD Library for LaunchPad LM4F / TM4C
+## SD Library for LaunchPad LM4F / TM4C
 
 
 * Adaptation for LaunchPad LM4F / TM4C
