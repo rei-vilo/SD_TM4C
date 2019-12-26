@@ -25,6 +25,7 @@ Boards
 
 * LaunchPad Stellaris LM4F120 — *tested*
 * LaunchPad Tiva C Series TM4C123 — *tested*
+* LaunchPad MSP432P401R — *tested*
 * LaunchPad Connected TM4C129 — *not tested*
 
 Other candidates
